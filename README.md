@@ -1,4 +1,4 @@
-Bienvenue sur mon portfolio de projets en data analytics. 
+Bienvenue sur mon portfolio de projets. 
 Je suis actuellement étudiante en Master Statistiques,
 Économétrie et Modélisation à l'Université Iba Der Thiam de Thiès (UIDT),
 avec une spécialisation en Data Analytics et Modélisation.
